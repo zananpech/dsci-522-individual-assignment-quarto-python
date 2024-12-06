@@ -42,7 +42,7 @@ as well as Quarto [@Allaire_Quarto_2022].
 
 # Results
 
-![](../results/horse_pops_plot.png){#fig-horse1}
+![](../results/horse_pops_plot.png){#fig-horse1 width=70%}
 
 @fig-horse1: Horse populations for all provinces in Canada from 1906 - 1972.
 
